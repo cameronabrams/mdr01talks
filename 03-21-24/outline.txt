@@ -1,0 +1,17 @@
+1. Resolving MPER and TM are important for understanding stabilizing factors for state-1 Env
+2. Latest structures of Tri-FPPR mutants from Sodroski lab resolve MPER alpha-heli[x,es] for at least one protomer
+3. Tri-FPPR structures also correlate alpha-helical HR1N segments with larger interprotomer opening angles
+   - protomer 1 and 2 have folded HR1N and larger opening angles
+   - protomer 3 has an unfoled HR1N and a smaller opening angles
+   - protomer 1 includes MPER residues out to 687
+4. Using the "class-6" Tri-FPPR structure, we asked the following questions:
+   a. how does it behave as a starting structure for unrestrained, water-solvated MD?  How stable are opening angles and MPER structure?
+   b. If we systematically convert unfolded HR1Ns to alpha-helical states, how does this alter the models' behavior under MD?
+   c. If we systematically build in missing MPER helices, how does this alter the  models' behavior under MD?
+5. We built and simulated the following all-atom models:
+   - C6_FT_HHL: the as-received structure ("Class 6, full trimer, HR1N's are helical (protomer 1, 2) and loops (protomer 3))
+   etc
+
+6. Results show variations in opening angles and lots of MPER flexibility
+
+7. We have also built models of Env with MPER-TM using SOSIP ectodomains (4zmj and 5vn3) with NMR-structures of MPER-TM trimers (6e8w) and are beginning membrane-bound simulations

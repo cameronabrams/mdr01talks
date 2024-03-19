@@ -1,0 +1,24 @@
+\frametitle{C6-S1-HHH (Protomer 1 replicated onto 2, 3)}
+\begin{center}
+        \begin{minipage}{0.47\textwidth}
+            \begin{center}
+                gp120 alignment\\
+                \includegraphics[width=\textwidth]{/home/cfa/research/hiv/trifppr/class6/C6_S1_HHH/rotation-matrices-gp120.png}
+            \end{center}
+        \end{minipage}
+        \begin{minipage}{0.47\textwidth}
+            \begin{center}
+                gp41 alignment\\
+                \includegraphics[width=\textwidth]{/home/cfa/research/hiv/trifppr/class6/C6_S1_HHH/rotation-matrices-gp41.png}
+            \end{center}
+        \end{minipage}
+
+        \includegraphics[width=0.16\textwidth]{trimer_paint_bottom_sodroski_smol.png}
+        \raisebox{1cm}{\includegraphics[width=0.08\textwidth]{rotate1.png}}
+        \includegraphics[width=0.16\textwidth]{/home/cfa/research/hiv/trifppr/class6/C6_S1_HHH/images/side-view.00000.png}
+        \includegraphics[width=0.16\textwidth]{/home/cfa/research/hiv/trifppr/class6/C6_S1_HHH/images/side-view.00033.png}
+        \includegraphics[width=0.16\textwidth]{/home/cfa/research/hiv/trifppr/class6/C6_S1_HHH/images/side-view.00067.png}
+        \includegraphics[width=0.16\textwidth]{/home/cfa/research/hiv/trifppr/class6/C6_S1_HHH/images/side-view.00099.png}
+
+        Protomer 1 MPER remains relatively stable
+    \end{center}
