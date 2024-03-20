@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/TeX Live for SUSE Linux) (preloaded format=pdflatex 2023.6.13)  20 MAR 2024 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/TeX Live for SUSE Linux) (preloaded format=pdflatex 2023.6.13)  20 MAR 2024 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1867,21 +1867,20 @@ File: 4zmj-mper-tm-example.png Graphic file (type png)
 <use 4zmj-mper-tm-example.png>
 Package pdftex.def Info: 4zmj-mper-tm-example.png  used on input line 6.
 (pdftex.def)             Requested size: 144.4266pt x 154.30829pt.
-<5vn3-mper-tm-update-1.png, id=199, 858.20625pt x 944.02687pt>
+<5vn3-mper-tm-update-1.png, id=199, 852.18375pt x 936.49875pt>
 File: 5vn3-mper-tm-update-1.png Graphic file (type png)
 <use 5vn3-mper-tm-update-1.png>
 Package pdftex.def Info: 5vn3-mper-tm-update-1.png  used on input line 12.
-(pdftex.def)             Requested size: 144.4266pt x 158.86911pt.
+(pdftex.def)             Requested size: 144.4266pt x 158.71683pt.
 ) [15
 
- <./4zmj-mper-tm-example.png (PNG copy)> <./5vn3-mper-tm-update-1.png (PNG copy
-)>]) [16
+ <./4zmj-mper-tm-example.png (PNG copy)> <./5vn3-mper-tm-update-1.png>]) [16
 
 ] (./frame_conclusions.tex
 \openout4 = `talk.vrb'.
 
-
-(./talk.vrb) [17
+ (./talk.vrb)
+[17
 
 ]) [18
 
@@ -1911,24 +1910,25 @@ Package rerunfilecheck Info: File `talk.out' has not changed.
 (rerunfilecheck)             Checksum: 9E9ED25786AFC8B91C8F1E9EB9D2109E;696.
  ) 
 Here is how much of TeX's memory you used:
- 37687 strings out of 479515
- 890132 string characters out of 5877294
+ 37695 strings out of 479515
+ 890296 string characters out of 5877294
  1279634 words of memory out of 5000000
- 54099 multiletter control sequences out of 15000+600000
+ 54107 multiletter control sequences out of 15000+600000
  409720 words of font info for 50 fonts, out of 8000000 for 9000
  891 hyphenation exceptions out of 8191
  131i,13n,132p,1838b,780s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/public
-/amsfonts/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.
-pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texm
-f/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf/fonts/type1/public
-/amsfonts/cm/cmssbx10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss090
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb>
-Output written on talk.pdf (20 pages, 15722516 bytes).
+/amsfonts/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pf
+b></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf
+/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/
+amsfonts/cm/cmss9.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmssbx10
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfss1000.pfb>
+Output written on talk.pdf (20 pages, 15574729 bytes).
 PDF statistics:
- 279 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
+ 283 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
  45 named destinations out of 1000 (max. 500000)
  310 words of extra memory for PDF output out of 10000 (max. 10000000)
 
