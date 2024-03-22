@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/TeX Live for SUSE Linux) (preloaded format=pdflatex 2023.6.13)  22 MAR 2024 08:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/TeX Live for SUSE Linux) (preloaded format=pdflatex 2023.6.13)  22 MAR 2024 08:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1858,62 +1858,62 @@ ng>]) (./frame_4zmj+mper.tex
 File: ppt/media/image5.png Graphic file (type png)
 <use ppt/media/image5.png>
 Package pdftex.def Info: ppt/media/image5.png  used on input line 3.
-(pdftex.def)             Requested size: 49.1675pt x 52.48854pt.
+(pdftex.def)             Requested size: 45.78682pt x 48.87863pt.
 <ppt/media/image6.png, id=185, 467.49657pt x 499.11469pt>
 File: ppt/media/image6.png Graphic file (type png)
 <use ppt/media/image6.png>
 Package pdftex.def Info: ppt/media/image6.png  used on input line 4.
-(pdftex.def)             Requested size: 49.1675pt x 52.48854pt.
+(pdftex.def)             Requested size: 45.78682pt x 48.87863pt.
 <ppt/media/image7.png, id=186, 467.49657pt x 499.11469pt>
 File: ppt/media/image7.png Graphic file (type png)
 <use ppt/media/image7.png>
 Package pdftex.def Info: ppt/media/image7.png  used on input line 5.
-(pdftex.def)             Requested size: 49.1675pt x 52.48854pt.
+(pdftex.def)             Requested size: 45.78682pt x 48.87863pt.
 <ppt/media/image8.png, id=187, 467.49657pt x 499.11469pt>
 File: ppt/media/image8.png Graphic file (type png)
 <use ppt/media/image8.png>
 Package pdftex.def Info: ppt/media/image8.png  used on input line 6.
-(pdftex.def)             Requested size: 49.1675pt x 52.48854pt.
+(pdftex.def)             Requested size: 45.78682pt x 48.87863pt.
 <ppt/media/image9.png, id=188, 467.49657pt x 499.11469pt>
 File: ppt/media/image9.png Graphic file (type png)
 <use ppt/media/image9.png>
 Package pdftex.def Info: ppt/media/image9.png  used on input line 7.
-(pdftex.def)             Requested size: 49.1675pt x 52.48854pt.
+(pdftex.def)             Requested size: 45.78682pt x 48.87863pt.
 <ppt/media/image11.png, id=189, 467.49657pt x 499.11469pt>
 File: ppt/media/image11.png Graphic file (type png)
 <use ppt/media/image11.png>
 Package pdftex.def Info: ppt/media/image11.png  used on input line 8.
-(pdftex.def)             Requested size: 49.1675pt x 52.48854pt.
+(pdftex.def)             Requested size: 45.78682pt x 48.87863pt.
 <ppt/media/image1.png, id=190, 444.91219pt x 438.13687pt>
 File: ppt/media/image1.png Graphic file (type png)
 <use ppt/media/image1.png>
 Package pdftex.def Info: ppt/media/image1.png  used on input line 10.
-(pdftex.def)             Requested size: 49.1675pt x 48.41582pt.
+(pdftex.def)             Requested size: 45.78682pt x 45.08647pt.
 <ppt/media/image2.png, id=191, 478.78876pt x 445.665pt>
 File: ppt/media/image2.png Graphic file (type png)
 <use ppt/media/image2.png>
 Package pdftex.def Info: ppt/media/image2.png  used on input line 11.
-(pdftex.def)             Requested size: 49.1675pt x 45.76596pt.
+(pdftex.def)             Requested size: 45.78682pt x 42.61742pt.
 <ppt/media/image3.png, id=192, 478.78876pt x 445.665pt>
 File: ppt/media/image3.png Graphic file (type png)
 <use ppt/media/image3.png>
 Package pdftex.def Info: ppt/media/image3.png  used on input line 12.
-(pdftex.def)             Requested size: 49.1675pt x 45.76596pt.
+(pdftex.def)             Requested size: 45.78682pt x 42.61742pt.
 <ppt/media/image4.png, id=193, 478.78876pt x 445.665pt>
 File: ppt/media/image4.png Graphic file (type png)
 <use ppt/media/image4.png>
 Package pdftex.def Info: ppt/media/image4.png  used on input line 13.
-(pdftex.def)             Requested size: 49.1675pt x 45.76596pt.
+(pdftex.def)             Requested size: 45.78682pt x 42.61742pt.
 <ppt/media/image10.png, id=194, 478.78876pt x 445.665pt>
 File: ppt/media/image10.png Graphic file (type png)
 <use ppt/media/image10.png>
 Package pdftex.def Info: ppt/media/image10.png  used on input line 14.
-(pdftex.def)             Requested size: 49.1675pt x 45.76596pt.
+(pdftex.def)             Requested size: 45.78682pt x 42.61742pt.
 <ppt/media/image12.png, id=195, 478.78876pt x 445.665pt>
 File: ppt/media/image12.png Graphic file (type png)
 <use ppt/media/image12.png>
 Package pdftex.def Info: ppt/media/image12.png  used on input line 15.
-(pdftex.def)             Requested size: 49.1675pt x 45.76596pt.
+(pdftex.def)             Requested size: 45.78682pt x 42.61742pt.
 ) [13
 
  <./ppt/media/image5.png (PNG copy)> <./ppt/media/image6.png (PNG copy)> <./ppt
@@ -1996,7 +1996,7 @@ b></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf
 amsfonts/cm/cmss9.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmssbx10
 .pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/tex
 mf/fonts/type1/public/cm-super/sfss1000.pfb>
-Output written on talk.pdf (21 pages, 18960405 bytes).
+Output written on talk.pdf (21 pages, 18960404 bytes).
 PDF statistics:
  301 PDF objects out of 1000 (max. 8388607)
  185 compressed objects within 2 object streams
