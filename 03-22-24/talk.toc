@@ -1,4 +1,4 @@
 \beamer@sectionintoc {1}{Ectodomain models based on Tri-FPPR Class 6}{3}{0}{1}
-\beamer@sectionintoc {2}{Membrane-anchored SOSIP-MPER-TM models}{13}{0}{2}
-\beamer@sectionintoc {3}{Conclusions}{16}{0}{3}
-\beamer@sectionintoc {4}{Upcoming}{18}{0}{4}
+\beamer@sectionintoc {2}{Membrane-anchored SOSIP-MPER-TM models}{14}{0}{2}
+\beamer@sectionintoc {3}{Conclusions}{17}{0}{3}
+\beamer@sectionintoc {4}{Upcoming}{19}{0}{4}
