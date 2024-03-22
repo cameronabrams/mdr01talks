@@ -1,0 +1,22 @@
+\frametitle{Acknowledgments}
+\begin{center}
+        \begin{minipage}[t][.6\textheight]{0.45\textwidth}
+            \textcolor{DUred}{\bf Dana Farber Cancer Institute}
+            \begin{itemize}
+                \item[] Shijian Zhang
+                \item[] Zhiqing Zhang
+                \item[] Saumya Anang
+                \item[] Hanh Nguyen
+                \item[] Joe Sodroski
+            \end{itemize}
+        \end{minipage}\hfill
+        \begin{minipage}[t][.6\textheight]{0.45\textwidth}
+            \textcolor{DUred}{\bf Yale University}
+            \begin{itemize}
+                \item[] Ruixue Xu
+                \item[] Walter Mothes
+            \end{itemize}
+        \end{minipage}
+
+        \color{DUgreen!90!black}{\bf Funding:} NIH R01 AI178833
+    \end{center}

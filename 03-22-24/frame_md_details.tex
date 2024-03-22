@@ -1,0 +1,17 @@
+\begin{frame}[fragile]{MD Simulation General Details}
+    \begin{itemize}
+        \item All-atom models with all glycan stems retained
+        \item All systems built using \href{https://pestifer.readthedocs.io/en/latest/}{pestifer}
+        \item Solvated in explicit water (TIP3P)
+        \item System sizes 320,000 to 340,000 atoms
+        \item NAMD v 2.14 using CHARMM-FF v36
+        \item Production MD: NPT (310 K, 1 bar) for 200 ns (100,000,000 time-steps)
+        \item Observables:
+        \begin{itemize}
+            \item opening angles measured via protomer alignment (on gp120 and gp41 separately)
+            \item HR1N alpha helicity (not shown in this talk)
+            \item snapshots
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
